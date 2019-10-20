@@ -936,3 +936,5 @@ PackageName : Microsoft.StorePurchaseApp_11910.1001.413.0_neutral_~_8wekyb3d8bbw
 PackageName : Microsoft.WindowsCalculator_2020.1908.0.0_neutral_~_8wekyb3d8bbwe
 PackageName : Microsoft.WindowsSoundRecorder_2019.905.2222.0_neutral_~_8wekyb3d8bbwe
 PackageName : Microsoft.WindowsStore_11910.1001.513.0_neutral_~_8wekyb3d8bbwe
+
+credit: https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/
