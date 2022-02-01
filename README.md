@@ -1,3 +1,7 @@
+Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
+
+https://www.groovypost.com/howto/copy-paste-kindle-fire/
+
 # bloatwareremovalpowershell
 
 Windows PowerShell
